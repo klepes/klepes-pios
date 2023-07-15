@@ -14,11 +14,11 @@
 
 /* See https://github.com/Saltssaumure/pios-discord-theme#customisation for customisation settings. */
 :root {
-    --pios-glow-hue:        180;
+    --pios-glow-hue:        0;
     --pios-glow-intensity:  0;
     --pios-spacing:         1;
     --pios-accent-hue:      0;
-    --pios-title-text:      "piOS v2.1.01p";
+    --pios-title-text:      ":3";
 
     --crt-stripe:   none;
     --crt-scanline: none;   /* ⛐ This effect is performance-intensive. */
